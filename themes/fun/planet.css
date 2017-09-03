@@ -2,10 +2,8 @@ h2 {
     margin-top: 0 !important;
 }
 
-.venus {
-    padding: 30px !important;
-    padding-top: 20px !important;
-    padding-bottom: 20px !important;
+tr.nostripe:nth-child(2n) {
+	background-color: #FFF !important;
 }
 
 #info {

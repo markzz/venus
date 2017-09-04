@@ -2,8 +2,13 @@ h2 {
     margin-top: 0 !important;
 }
 
+img {
+    max-width: 100%;
+    height: auto;
+}
+
 tr.nostripe:nth-child(2n) {
-	background-color: #FFF !important;
+    background-color: #FFF !important;
 }
 
 #info {
